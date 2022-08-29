@@ -104,7 +104,7 @@ nav a {
     padding: 0.25rem;
 }
 
-a:hover { color: #a2745c; }
+a:hover { color: #f5e3d8; }
 
 .button {
   text-decoration: none;
@@ -116,7 +116,7 @@ a:hover { color: #a2745c; }
 }
 
 .bg-dark .button:hover {
-    color: #d3b4a2;
+    color: #f5e3d8;
 }
 
 .subtle { 
@@ -134,7 +134,7 @@ header {
 }
 
 footer a:hover { 
-    color: #d3b4a2; 
+    color: #f5e3d8; 
 }
 
 /* Icon Grid Section  */
